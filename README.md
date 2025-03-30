@@ -17,7 +17,7 @@ goit-neo-react-hw-module4 is an image search application built with React and Vi
   - React Hot Toast for notifications
   - React Loader Spinner
  
-## Application design
+## 🖼️ Application design
 
 ![Goit-neo-react-hw-module4 by Alexander Andersen](https://github.com/user-attachments/assets/1c869e05-88c8-43c9-9d26-c23f74b578cd)
 
