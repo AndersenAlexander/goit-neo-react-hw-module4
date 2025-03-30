@@ -19,42 +19,42 @@ goit-neo-react-hw-module4 is an image search application built with React and Vi
 
 ## 🚀 Project Structure
 
-  goit-neo-react-hw-module4/
-  ├── public/
-  │   ├── AlexanderAndersen.jpg       // Background image
-  │   ├── favicon-16x16.png
-  │   ├── favicon-32x32.png
-  │   ├── favicon-48x48.png
-  │   └── ... 
-  ├── src/
-  │   ├── components/
-  │   │   ├── SearchBar/
-  │   │   │   ├── SearchBar.jsx
-  │   │   │   └── SearchBar.module.css
-  │   │   ├── ImageGallery/
-  │   │   │   ├── ImageGallery.jsx
-  │   │   │   └── ImageGallery.module.css
-  │   │   ├── ImageCard/
-  │   │   │   ├── ImageCard.jsx
-  │   │   │   └── ImageCard.module.css
-  │   │   ├── Loader/
-  │   │   │   ├── Loader.jsx
-  │   │   │   └── Loader.module.css
-  │   │   ├── ErrorMessage/
-  │   │   │   ├── ErrorMessage.jsx
-  │   │   │   └── ErrorMessage.module.css
-  │   │   ├── LoadMoreBtn/
-  │   │   │   ├── LoadMoreBtn.jsx
-  │   │   │   └── LoadMoreBtn.module.css
-  │   │   └── ImageModal/
-  │   │       ├── ImageModal.jsx
-  │   │       └── ImageModal.module.css
-  │   ├── App.jsx
-  │   ├── index.css                // Global styles (includes background image)
-  │   └── main.jsx
-  ├── .env
-  ├── package.json
-  └── README.md
+    goit-neo-react-hw-module4/
+    ├── public/
+    │   ├── AlexanderAndersen.jpg       
+    │   ├── favicon-16x16.png
+    │   ├── favicon-32x32.png
+    │   ├── favicon-48x48.png
+    │   └── ... 
+    ├── src/
+    │   ├── components/
+    │   │   ├── SearchBar/
+    │   │   │   ├── SearchBar.jsx
+    │   │   │   └── SearchBar.module.css
+    │   │   ├── ImageGallery/
+    │   │   │   ├── ImageGallery.jsx
+    │   │   │   └── ImageGallery.module.css
+    │   │   ├── ImageCard/
+    │   │   │   ├── ImageCard.jsx
+    │   │   │   └── ImageCard.module.css
+    │   │   ├── Loader/
+    │   │   │   ├── Loader.jsx
+    │   │   │   └── Loader.module.css
+    │   │   ├── ErrorMessage/
+    │   │   │   ├── ErrorMessage.jsx
+    │   │   │   └── ErrorMessage.module.css
+    │   │   ├── LoadMoreBtn/
+    │   │   │   ├── LoadMoreBtn.jsx
+    │   │   │   └── LoadMoreBtn.module.css
+    │   │   └── ImageModal/
+    │   │       ├── ImageModal.jsx
+    │   │       └── ImageModal.module.css
+    │   ├── App.jsx
+    │   ├── index.css                
+    │   └── main.jsx
+    ├── .env
+    ├── package.json
+    └── README.md
 
 
 ## 🔧 How to run the project
