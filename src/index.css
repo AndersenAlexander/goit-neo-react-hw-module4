@@ -1,0 +1,8 @@
+/* src/index.css */
+body {
+  margin: 0;
+  padding: 0;
+  background: url("/AlexanderAndersen.jpg") no-repeat center center fixed;
+  background-size: cover;
+  font-family: sans-serif;
+}
