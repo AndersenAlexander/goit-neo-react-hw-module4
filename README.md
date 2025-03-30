@@ -18,6 +18,11 @@ This project is part of the [GoIT React Course] Module 4: Hooks. It’s a single
   - React Modal
   - React Hot Toast for notifications
   - React Loader Spinner
+ 
+## Application design
+
+![Goit-neo-react-hw-module4 by Alexander Andersen](https://github.com/user-attachments/assets/617e2411-fc2f-4de9-b1e5-d77f0db850fc)
+
 
 ## 🚀 Project Structure
 
